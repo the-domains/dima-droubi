@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Dima Droubi - Romancière]]></title>
-        <description><![CDATA[Dima Droubi - Romancière]]></description>
+        <title><![CDATA[La Sultane du Caire - de Dima Droubi]]></title>
+        <description><![CDATA[La Sultane du Caire - de Dima Droubi]]></description>
         <link>https://thegrid.ai/dima-droubi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 11:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 10:17:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dima-droubi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 24 Feb 2016 14:44:07 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[La presse en parle]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3628f9a9-4bc5-4658-9dfb-9ccb07e60542.gif" alt="" title="">]]></description>
+            <link>https://thegrid.ai/dima-droubi/la-presse-en-parle/index.html</link>
+            <guid isPermaLink="false">cedfedd8-d705-44f7-aad9-165a64d51f86</guid>
+            <pubDate>Wed, 08 Jun 2016 10:17:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Dima Droubi et 'La sultane du Caire']]></title>
-            <description><![CDATA[<article><h1>Dima Droubi et 'La sultane du Caire'</h1><p>Dima Droubi et 'La sultane du Caire' Le 24/02/16 Dima Droubi a des origines culturelles diverses. De nationalité française, elle est née à Beyrouth. La famille de son père est originaire de la ville de Homs en Syrie et celle de sa mère de la ville d'Alep, mais aussi de Turquie.</p><img src="http://www.agendaculturel.com/menuimages/sultane_caire_auteur_hd230_10276.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Dima Droubi et 'La sultane du Caire'</h1><p>Dima Droubi et 'La sultane du Caire' Le 24/02/16 Dima Droubi a des origines culturelles diverses. De nationalité française, elle est née à Beyrouth. La famille de son père est originaire de la ville de Homs en Syrie et celle de sa mère de la ville d'Alep, mais aussi de Turquie.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c6e9cbcf752cadc3a2c86589f4080771e9c91db.jpg"></article>]]></description>
             <link>http://www.agendaculturel.com/Livre_Dima+Droubi_et_La_sultane_du_Caire</link>
             <guid isPermaLink="false">7c3b8c2d-e62d-48f7-bda9-05983518cb6f</guid>
             <pubDate>Sat, 05 Mar 2016 11:09:50 GMT</pubDate>
