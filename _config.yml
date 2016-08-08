@@ -1,7 +1,7 @@
 name: Dima Droubi
 favicon: null
 layout_spectrum: 0.24611
-typography_spectrum: 0.587105697253719
+typography_spectrum: 0.7254760218784213
 title: La Sultane du Caire - de Dima Droubi
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1e1e1e'
-    - '#b2161d'
-    - '#ffffff'
-    - '#b45342'
-    - '#b5b5b5'
-  brandStrength: 0.08929882105439901
-  lightness: 0.8408852641005069
-  saturation: 0.44976691971533
-  rhythmicContrast: 0.567519250093028
+    - '#FFFFFF'
+    - '#000000'
+    - '#B2161D'
+    - '#A4463E'
+    - '#BABEA5'
+  brandStrength: 0.2865670083556324
+  lightness: 0.8774465194437653
+  saturation: 0.3473892936017364
+  rhythmicContrast: 0.5314960449468344
 purpose: []
