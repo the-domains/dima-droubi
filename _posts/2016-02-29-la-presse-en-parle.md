@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T10:36:45.929Z'
+datePublished: '2016-08-08T10:39:29.032Z'
 sourcePath: _posts/2016-02-29-la-presse-en-parle.md
 inFeed: true
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-08T10:36:45.502Z'
+dateModified: '2016-08-08T10:39:28.612Z'
 title: ''
 publisher: {}
 description: ''
